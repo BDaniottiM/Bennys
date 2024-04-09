@@ -60,7 +60,7 @@ function gerarEmbed(
 ) {
   let itensString = "";
   itens.forEach(function (item) {
-    itensString = itensString + item.item + "\n";
+    itensString = itensString + item.item + "";
   });
   let jsonBase = {
     username: "Benny's",
