@@ -88,8 +88,9 @@ function gerarEmbed(
             inline: true,
           },
           {
-            name: ":clock3: Horário",
+            name: ":clock3: Data e Hora",
             value: enderecoCliente,
+            inline: true,
           },
           {
             name: ":mobile_phone: Contato",
