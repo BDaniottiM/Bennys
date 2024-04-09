@@ -88,9 +88,8 @@ function gerarEmbed(
             inline: true,
           },
           {
-            name: ":identification_card: CPF",
+            name: ":clock3: Horário",
             value: enderecoCliente,
-            inline: true,
           },
           {
             name: ":mobile_phone: Contato",
