@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'PT Banana Split';
+	src: url(../../assets/fonts/PT%20Banana%20Split-c5a654d3ed571eae25fbe198b2a3cc04.woff2) format('woff2'),
+	url(../../assets/fonts/PT%20Banana%20Split-fca51ae37f7d5a146cee600854cff62b.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Heavy Heap';
+	src: url(../../assets/fonts/Heavy%20Heap-ac6143f2f81688d76fd6328e5cc5e142.woff2) format('woff2'),
+	url(../../assets/fonts/Heavy%20Heap-e0cbabcac2e10b3366412d3b9936f887.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

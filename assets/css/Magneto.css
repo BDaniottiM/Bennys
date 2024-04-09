@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Magneto';
+	src: url(../../assets/fonts/Magneto-5839a37824828bce23a5781c69a755e0.woff2) format('woff2'),
+	url(../../assets/fonts/Magneto-437ccb42e5d2d18cf4235225fc2192fc.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}

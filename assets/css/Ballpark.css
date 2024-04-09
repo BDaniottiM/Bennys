@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Ballpark';
+	src: url(../../assets/fonts/Ballpark-753f036ec4b1c488eba6d69d5ac22587.woff2) format('woff2'),
+	url(../../assets/fonts/Ballpark-1666e93d74ed403921bf0403582ee2d8.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Ballpark';
+	src: url(../../assets/fonts/Ballpark-753f036ec4b1c488eba6d69d5ac22587.woff2) format('woff2'),
+	url(../../assets/fonts/Ballpark-1666e93d74ed403921bf0403582ee2d8.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

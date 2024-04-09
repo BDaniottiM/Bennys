@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Japanese';
+	src: url(../../assets/fonts/Japanese-4f4c37b4a24c9f0f1027d88bb2e2cf94.woff2) format('woff2'),
+	url(../../assets/fonts/Japanese-575c1bc2c951fb932d66d3e33058471c.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

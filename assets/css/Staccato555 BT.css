@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Staccato555 BT';
+	src: url(../../assets/fonts/Staccato555%20BT-85b0ec2de8139a894e5a8db12380efb0.woff2) format('woff2'),
+	url(../../assets/fonts/Staccato555%20BT-386e95920534e481b714b4ad52df2a08.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}

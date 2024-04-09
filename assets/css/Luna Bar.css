@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Luna Bar';
+	src: url(../../assets/fonts/Luna%20Bar-f3e1049fb461774fe4b4c7c6f2cf50ac.woff2) format('woff2'),
+	url(../../assets/fonts/Luna%20Bar-2176b90549a5f03cc381aa2d7a8d5ff8.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
