@@ -60,7 +60,7 @@ function gerarEmbed(
 ) {
   let itensString = "";
   itens.forEach(function (item) {
-    itensString = itensString + item.item + "";
+    itensString = itensString + item.item + "\n";
   });
   let jsonBase = {
     username: "Benny's",
@@ -90,7 +90,6 @@ function gerarEmbed(
           {
             name: ":clock3: Data e Hora",
             value: enderecoCliente,
-            inline: true,
           },
           {
             name: ":mobile_phone: Contato",
